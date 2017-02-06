@@ -3,6 +3,7 @@ java implementation based <a href="https://github.com/openstf/minicap">openstf m
 ### Run
 open project in eclipse, just run MainFrame.java, you will see
 <img src="http://wx3.sinaimg.cn/mw690/a5e2541bgy1fch2s4afxsj21kw16oe6y.jpg"/>
+<img src="http://wx4.sinaimg.cn/mw690/a5e2541bgy1fch2t7rxckj21kw16o4qp.jpg"/>
 
 as you can see. one usb android device relate one canvas in JFrame.
 
