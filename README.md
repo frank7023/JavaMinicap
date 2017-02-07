@@ -7,4 +7,4 @@ open project in eclipse, just run MainFrame.java, you will see
 
 as you can see. one usb android device relate one canvas in JFrame.
 
-more detail please go to my <a href="http://larryzhuo.github.io/">blog</a>
+more detail please go to my <a href="http://larryzhuo.github.io/2016/12/08/20170206/">blog</a>
